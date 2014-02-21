@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "ruby_example2"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "ruby_example1"
+		}
+	]
+}

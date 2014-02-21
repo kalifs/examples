@@ -1,0 +1,207 @@
+[
+	{
+		"args": null,
+		"command": "cut"
+	},
+	{
+		"args":
+		{
+			"characters": "class"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " Account"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "\nde"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "attr_reader"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " :balance"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "\n\ndef"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " initialize"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"contents": "($0)"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"characters": "bal"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+		},
+		"command": "run_macro_file"
+	},
+	{
+		"args":
+		{
+			"characters": "\n\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "end"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args": null,
+		"command": "reindent"
+	},
+	{
+		"args":
+		{
+			"characters": "ba"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "@balance"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " ="
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " 1000"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "end"
+		},
+		"command": "insert"
+	}
+]
